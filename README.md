@@ -4,5 +4,5 @@ This repository implements a remote sensing-based drought monitoring system for 
 Synthetic Drought Index (SDI) Jeneponto in 2015-2024
 ![image alt](https://github.com/diniyrti/Remote_Sensing_Based_Drought_Monitoring/blob/main/image/sdi_2015-2024.jpg)
 
-Link Jurnal Refrence: Remote sensing-based drought hazard monitoring and assessment in a coastal plain: A principal component approach
+Reference Journal Links: Remote sensing-based drought hazard monitoring and assessment in a coastal plain: A principal component approach
 https://www.sciencedirect.com/science/article/pii/S0013935123025616
