@@ -3,8 +3,11 @@ This repository implements a remote sensing-based drought monitoring system for 
 
 📡 Methodology:
  • Landsat 8 (30 m) for vegetation condition and land surface temperature
+ 
  • CHIRPS monthly precipitation, upscaled to 30 m
+ 
  • Dry-season compositing (August–September) to minimize cloud effects while capturing peak drought stress
+ 
  • PCA-based integration: VCI, TCI, PCI → SDI
 
 📊 Results indicate that 2023 was the driest year, followed by 2019 and 2015, a pattern consistent with the combined influence of El Niño conditions and Indian Ocean climate variability, which tend to suppress rainfall and prolong dry seasons across southern Indonesia.
