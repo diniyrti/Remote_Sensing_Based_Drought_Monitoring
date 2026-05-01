@@ -2,6 +2,7 @@
 This repository implements a remote sensing-based drought monitoring system for Jeneponto, Indonesia, covering the 10-year period from 2015 to 2024. The methodology is primarily inspired by the research of Jesudhas et al. (2024), specifically adapting their approach of using Principal Component Analysis (PCA) to objectively integrate the Precipitation Condition Index (PCI), Vegetation Condition Index (VCI), and Temperature Condition Index (TCI) into a single Synthetic Drought Index (SDI). By applying this framework to the tropical climate of Jeneponto, this project aims to provide a comprehensive assessment of drought hazard through multi-source data from Landsat 8 and CHIRPS.
 
 📡 Methodology:
+
  • Landsat 8 (30 m) for vegetation condition and land surface temperature
  
  • CHIRPS monthly precipitation, upscaled to 30 m
