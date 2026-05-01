@@ -17,7 +17,6 @@ This repository implements a remote sensing-based drought monitoring system for 
 The PCA-based approach objectively integrates vegetation stress, temperature-related stress, and precipitation deficits into a single drought indicator, enabling more effective early detection, agricultural planning, water resource management, and disaster preparedness in climate-vulnerable regions.
 
 
-Synthetic Drought Index (SDI) Jeneponto in 2015-2024
 ![image alt](https://github.com/diniyrti/Remote_Sensing_Based_Drought_Monitoring/blob/main/image/sdi_2015-2024.jpg)
 
 Reference Journal Links: Remote sensing-based drought hazard monitoring and assessment in a coastal plain: A principal component approach
